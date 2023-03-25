@@ -12,3 +12,7 @@ def add(a):
 
 def abb():
     return 0
+
+
+def bbb():
+    return 0
