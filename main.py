@@ -9,3 +9,6 @@ def printttt(a, b):
 def add(a):
     a += a
     return a
+
+def abb():
+    return 0
